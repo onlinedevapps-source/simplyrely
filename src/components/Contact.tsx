@@ -114,12 +114,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className={styles.detailLabel}>WhatsApp</span>
-                    <a href={`https://wa.me/${profile.contact.usPhone.replace(/[^0-9]/g, '')}`} target="_blank" rel="noopener noreferrer" className={styles.detailValue}>
-                      Direct Message (US)
-                    </a>
-                    <br />
                     <a href={`https://wa.me/${profile.contact.phone.replace(/[^0-9]/g, '')}`} target="_blank" rel="noopener noreferrer" className={styles.detailValue}>
-                      Direct Message (PK)
+                      Direct Message
                     </a>
                   </div>
                 </div>

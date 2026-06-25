@@ -20,8 +20,8 @@ export const profile = {
     phone: "+92 336 4568688",
     usPhone: "+1 818 732 0442",
     location: "Karachi, Pakistan",
-    linkedin: "https://linkedin.com/in/muhammad-ashraf-ali",
-    github: "https://github.com/onlinedevapps",
+    linkedin: "https://www.linkedin.com/in/muhammad-ashraf-ali-9259b751",
+    github: "https://github.com/onlinedevapps-source",
   },
   availability: {
     status: "open",
